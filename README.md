@@ -7,3 +7,6 @@ Proyecto de aplicación de técnicas de Deep Learning para la predicción de res
 
 Fuente:
 https://github.com/Tennismylife/TML-Database
+
+
+Video Explicativo: https://youtu.be/ypktjLzYFh0
